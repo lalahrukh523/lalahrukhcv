@@ -1,0 +1,46 @@
+<html>
+<head><title> MY CV!</head></title>
+<body>
+<table border="1" align="center" width="60%">
+<tr>
+<th><b><h1><strong>WELCOME TO MY CV!</h1></th></th></b><tr></strong>
+     <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBD7bkxK6eUowManZBrRMZ25KxpyeNrmAiQ&usqp" Align="right" height="240" width="200" border="1"/></p>
+    <tr><th Align="left"><h2>NAME : LALAH RUKH</h2>
+	<b><strong>PHONE NO: 0310*******</b><br></strong>
+	<b style="color :purple;"><strong>EMAIL ADDRESS : lalahrukh523@gmail.com</b><br></strong>
+	<br>
+	<ul>
+<b><u><p style="color :black;">PERSONAL INFORMATION:</b></u></p>
+<li><p style="color :purple;">FATHER NAME: SIKANDAR HAYAT</p></li>
+<li><p style="color :red;">DOB: 23-03-2005</p></li>
+<li><p style="color :brown;">NATIONALITY : PAKISTANI</p></li>
+<li><p style="color :navy;">RELIGION : ISLAM</p></li>
+<li><p style="color :green;">CNIC:*************</p></li>
+<li><p style="color :orange;">LANGUAGE : URDU</p></li>
+</ul>
+<b><h2><u><strong>QUALIFICATION</h2></b></u></strong>
+<table bgcolor="purple" border="double" width="500px">
+<th>QUALIFICATION</th>
+<tr>
+<td>CLASS</td>
+<td>MARKS</td>
+</tr>
+<tr>
+<td>INTERMEDIATE</td>
+<td>941</td>
+</tr>
+</table>
+<b><i><strong><u><p style="color :red;">SKILLS:</b></i></u></p><strong>
+<ul>
+<li>WEB DESIGNING</li>
+<li>GRAPHIC DESIGNING</li>
+<li>PROGRAMMER</li>
+</ul>
+</tr>
+</td>
+
+
+
+</table>
+</body>
+</html>
